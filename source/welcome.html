@@ -1,4 +1,5 @@
 <!doctype html>
+<html lang="en">
 <meta charset="utf-8">
 <meta content="width=device-width, initial-scale=1" name="viewport">
 <meta content="light dark" name="color-scheme">
@@ -9,7 +10,13 @@
 	html {
 		font-family: system-ui, sans-serif;
 		font-size: 75%;
-		background-color: light-dark(#fff, #0d1116);
+		background-color: #fff;
+		color-scheme: light dark;
+	}
+	@media (prefers-color-scheme: dark) {
+		html {
+			background-color: #0d1116;
+		}
 	}
 	body {
 		margin: 0;

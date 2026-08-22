@@ -17,10 +17,6 @@
 			"ESNext.Collection",
 			"ESNext.Object",
 			"ES2024"
-		],
-		"types": [
-			"chrome",
-			"vite/client"
 		]
 	},
 	"include": [

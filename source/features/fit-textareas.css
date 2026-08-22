@@ -1,7 +1,12 @@
 .rgh-fit-textareas {
 	min-height: 4.5lh;
 	max-height: none !important;
-	field-sizing: content;
+}
+
+@supports (field-sizing: content) {
+	.rgh-fit-textareas {
+		field-sizing: content;
+	}
 }
 
 :root textarea.rgh-fit-textareas.form-control {

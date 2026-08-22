@@ -18,31 +18,30 @@ GitHub Enterprise is also supported: [How to enable it](https://fregante.github.
 
 [<img src="https://raw.githubusercontent.com/alrra/browser-logos/90fdf03c/src/chrome/chrome.svg" width="48" alt="Chrome" valign="middle">][link-chrome] [<img valign="middle" src="https://img.shields.io/chrome-web-store/v/hlepfoohegkhhmjieoechaddaejaokhf.svg?label=%20">][link-chrome] and other Chromium browsers
 
-[<img src="https://raw.githubusercontent.com/alrra/browser-logos/90fdf03c/src/firefox/firefox.svg" width="48" alt="Firefox" valign="middle">][link-firefox] [<img valign="middle" src="https://img.shields.io/amo/v/refined-github-.svg?label=%20">][link-firefox] including Firefox Android
+[![Latest Refined GitHub version](https://img.shields.io/amo/v/refined-github-.svg?label=%20)<img src="https://raw.githubusercontent.com/alrra/browser-logos/90fdf03c/src/firefox/firefox.svg" width="48" alt="Firefox" valign="middle">][link-firefox] [![Latest Refined GitHub version](https://img.shields.io/amo/v/refined-github-.svg?label=%20)][link-firefox] including Firefox Android
 
 [<img src="https://raw.githubusercontent.com/alrra/browser-logos/90fdf03c/src/safari/safari_128x128.png" width="48" alt="Safari" valign="middle">][link-safari] [<img valign="middle" src="https://img.shields.io/itunes/v/1519867270.svg?label=%20">][link-safari] on Mac, iOS and iPadOS
 
-[<img src="https://raw.githubusercontent.com/iamcal/emoji-data/08ec822c38e0b7a6fea0b92a9c42e02b6ba24a84/img-apple-160/1f99a.png" width="48" valign="middle">](https://github.com/sponsors/fregante) _If you love Refined GitHub, consider [sponsoring or hiring](https://github.com/sponsors/fregante) the maintainer [@fregante](https://twitter.com/fregante)_
-
+[<img src="https://raw.githubusercontent.com/iamcal/emoji-data/08ec822c38e0b7a6fea0b92a9c42e02b6ba24a84/img-apple-160/1f99a.png" width="48" valign="middle">](https://github.com/sponsors/fregante) *If you love Refined GitHub, consider [sponsoring or hiring](https://github.com/sponsors/fregante) the maintainer [@fregante](https://twitter.com/fregante)*
 
 <div align="center">
 
 <table><tr><td width="550"><div align="center">
-	<p><sup><a href="https://github.com/sponsors/fregante">@fregante</a>’s open source work is supported by the community.<br>Special thanks to:</sup></p>
-	<p><a href="https://www.prisma.io/">
-		<picture>
-			<source media="(prefers-color-scheme: dark)" srcset="media/sponsor-prisma-dark.svg">
-			<img width="250" alt="Prisma.io" src="media/sponsor-prisma-light.svg">
-		</picture>
-		<br><sup>Next-generation Node.js and TypeScript ORM with an intuitive data model, automated migrations, type-safety & auto-completion.</sup>
-	</a></p>
-	<p><a href="https://frappe.io/">
-		<picture>
-			<source media="(prefers-color-scheme: dark)" srcset="media/sponsor-frappe-dark.png">
-			<img width="190" alt="Frappe" src="media/sponsor-frappe-light.png">
-		</picture>
-		<br><sup>Fully-featured low-code web framework and more world-class free and open-source software.</sup>
-	</a></p>
+ <p><sup><a href="https://github.com/sponsors/fregante">@fregante</a>’s open source work is supported by the community.<br>Special thanks to:</sup></p>
+ <p><a href="https://www.prisma.io/">
+  <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="media/sponsor-prisma-dark.svg">
+   <img width="250" alt="Prisma.io" src="media/sponsor-prisma-light.svg">
+  </picture>
+  <br><sup>Next-generation Node.js and TypeScript ORM with an intuitive data model, automated migrations, type-safety & auto-completion.</sup>
+ </a></p>
+ <p><a href="https://frappe.io/">
+  <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="media/sponsor-frappe-dark.png">
+   <img width="190" alt="Frappe" src="media/sponsor-frappe-light.png">
+  </picture>
+  <br><sup>Fully-featured low-code web framework and more world-class free and open-source software.</sup>
+ </a></p>
 </table>
 
 </div>
@@ -52,34 +51,34 @@ GitHub Enterprise is also supported: [How to enable it](https://fregante.github.
 ## Highlights 🔥
 
 <table>
-	<tr>
-		<th width="50%">
-			<p><a title="show-whitespace"></a> Makes whitespace characters visible
-			<p><img src="https://user-images.githubusercontent.com/1402241/61187598-f9118380-a6a5-11e9-985a-990a7f798805.png">
-		<th width="50%">
-			<p><a title="unreleased-commits"></a> Tells you whether you're looking at the latest version of a repository, or if there are any unreleased commits
-			<p><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/1402241/267236196-8564c193-a3c7-4248-9735-54749c1990c7.png">
-	<tr>
-		<th width="50%">
-			<p><a title="pr-base-commit"></a> Shows how far behind a PR head branch is + tells you its base commit
-			<p><img src="https://user-images.githubusercontent.com/1402241/234492651-b54bf9ba-c218-4a30-bed4-f85a7f037297.png">
-		<th width="50%">
-			<p><a title="conversation-activity-filter"></a> Lets you hide every event except comments or unresolved comments in issues and PRs
-			<p><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/83146190/252116522-053bce84-5c55-477b-8cc2-42a48104fb02.png">
-	<tr>
-		<th width="50%">
-			<p><a title="status-subscription"></a> Lets you subscribe to opening/closing events of issues in one click
-			<p><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/1402241/238186901-cbc98b51-d173-40c6-b21e-5f0bae3d800c.png">
-		<th width="50%">
-			<p><a title="default-branch-button"></a> Adds a link to the default branch on directory listings and files
-			<p><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/83146190/252176294-9130783c-51aa-4df9-9c35-9b87c179199a.png">
-	<tr>
-		<th width="50%">
-			<p><a title="restore-file"></a> Adds a button to discard all the changes to a file in a PR
-			<p><img src="https://user-images.githubusercontent.com/1402241/236630610-e11a64f6-5e70-4353-89b8-39aae830dd16.gif">
-		<th width="50%">
-			<p><a title="select-notifications"></a> Select notifications by type and status
-			<p><img src="https://user-images.githubusercontent.com/83146190/252175851-e0826d3b-1990-4bff-ba09-71892463818e.gif">
+ <tr>
+  <th width="50%">
+   <p><a title="show-whitespace"></a> Makes whitespace characters visible
+   <p><img src="https://user-images.githubusercontent.com/1402241/61187598-f9118380-a6a5-11e9-985a-990a7f798805.png">
+  <th width="50%">
+   <p><a title="unreleased-commits"></a> Tells you whether you're looking at the latest version of a repository, or if there are any unreleased commits
+   <p><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/1402241/267236196-8564c193-a3c7-4248-9735-54749c1990c7.png">
+ <tr>
+  <th width="50%">
+   <p><a title="pr-base-commit"></a> Shows how far behind a PR head branch is + tells you its base commit
+   <p><img src="https://user-images.githubusercontent.com/1402241/234492651-b54bf9ba-c218-4a30-bed4-f85a7f037297.png">
+  <th width="50%">
+   <p><a title="conversation-activity-filter"></a> Lets you hide every event except comments or unresolved comments in issues and PRs
+   <p><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/83146190/252116522-053bce84-5c55-477b-8cc2-42a48104fb02.png">
+ <tr>
+  <th width="50%">
+   <p><a title="status-subscription"></a> Lets you subscribe to opening/closing events of issues in one click
+   <p><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/1402241/238186901-cbc98b51-d173-40c6-b21e-5f0bae3d800c.png">
+  <th width="50%">
+   <p><a title="default-branch-button"></a> Adds a link to the default branch on directory listings and files
+   <p><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/83146190/252176294-9130783c-51aa-4df9-9c35-9b87c179199a.png">
+ <tr>
+  <th width="50%">
+   <p><a title="restore-file"></a> Adds a button to discard all the changes to a file in a PR
+   <p><img src="https://user-images.githubusercontent.com/1402241/236630610-e11a64f6-5e70-4353-89b8-39aae830dd16.gif">
+  <th width="50%">
+   <p><a title="select-notifications"></a> Select notifications by type and status
+   <p><img src="https://user-images.githubusercontent.com/83146190/252175851-e0826d3b-1990-4bff-ba09-71892463818e.gif">
 </table>
 
 ### Repositories
@@ -116,7 +115,7 @@ https://github.com/refined-github/refined-github/wiki/Contributing#metadata-guid
 
 ### File management
 
-- [](# "download-folder-button") [Adds a button to download entire folders](https://user-images.githubusercontent.com/46634000/158347358-49234bb8-b9e6-41be-92ed-c0c0233cbad2.png), via https://download-directory.github.io.
+- [](# "download-folder-button") [Adds a button to download entire folders](https://user-images.githubusercontent.com/46634000/158347358-49234bb8-b9e6-41be-92ed-c0c0233cbad2.png), via <https://download-directory.github.io>.
 - [](# "quick-file-edit") [Adds a button to edit files from the repo file list.](https://github-production-user-asset-6210df.s3.amazonaws.com/83146190/252182890-081975f4-f041-4ba5-ae48-d52cb0796543.png)
 - [](# "repo-wide-file-finder") Enables the File Finder keyboard shortcut (<kbd>t</kbd>) on entire repository.
 - [](# "show-associated-branch-prs-on-fork") [Shows the associated PRs on branches for forked repositories.](https://github-production-user-asset-6210df.s3.amazonaws.com/83146190/260873542-2a7fc7a2-231f-4f2e-9c7e-272d894de4c6.png)
@@ -165,7 +164,7 @@ https://github.com/refined-github/refined-github/wiki/Contributing#metadata-guid
 
 ### Reading comments
 
-- [](# "reactions-avatars") 🔥 [Adds reaction avatars showing _who_ reacted to a comment.](https://user-images.githubusercontent.com/1402241/236628453-8b646178-b838-44a3-9541-0a9b5f54a84a.png)
+- [](# "reactions-avatars") 🔥 [Adds reaction avatars showing *who* reacted to a comment.](https://user-images.githubusercontent.com/1402241/236628453-8b646178-b838-44a3-9541-0a9b5f54a84a.png)
 - [](# "embed-gist-inline") [Embeds short gists when linked in comments on their own lines.](https://user-images.githubusercontent.com/1402241/152117903-80d784d5-4f43-4786-bc4c-d4993aec5c79.png)
 - [](# "comments-time-machine-links") Adds links to [browse the repository](https://github-production-user-asset-6210df.s3.amazonaws.com/83146190/252749373-9313f1d9-3d92-44a2-a1d1-2b49a29e6a5c.png) and [linked files](https://github-production-user-asset-6210df.s3.amazonaws.com/83146190/252749616-085103bf-17be-4a7d-b63c-aa5003de6dff.png) at the time of each comment.
 - [](# "show-names") [Adds the real name of users by their usernames.](https://github-production-user-asset-6210df.s3.amazonaws.com/83146190/252756294-94785dc2-423e-498c-939a-359a012036e0.png)
@@ -192,7 +191,7 @@ https://github.com/refined-github/refined-github/wiki/Contributing#metadata-guid
 - [](# "conversation-authors") [Highlights issues/PRs opened by you or the current repo’s collaborators.](https://github-production-user-asset-6210df.s3.amazonaws.com/83146190/252804821-a412e05c-fb76-400b-85b5-5acbda538ab2.png)
 - [](# "align-issue-labels") [In issue/PR lists, aligns the labels to the left, below each title.](https://github.com/user-attachments/assets/dca5dc12-7283-4704-a93f-5bfe5f2b1938)
 - [](# "last-update-sort") 🔥 Changes the default sort order of issues/PRs to `Recently updated`.
-- [](# "global-conversation-list-filters") [Adds filters for PRs _in your repos_ and _commented on by you_ in the global PR search.](https://github-production-user-asset-6210df.s3.amazonaws.com/83146190/253048449-2f7cc331-c379-4ec0-a542-441e8b4f8d79.png)
+- [](# "global-conversation-list-filters") [Adds filters for PRs *in your repos* and *commented on by you* in the global PR search.](https://github-production-user-asset-6210df.s3.amazonaws.com/83146190/253048449-2f7cc331-c379-4ec0-a542-441e8b4f8d79.png)
 - [](# "clean-conversation-sidebar") 🔥 [Hides empty sections (or just their "empty" label) in the issue/PR sidebar.](https://github-production-user-asset-6210df.s3.amazonaws.com/83146190/253054419-48c38c01-b1dc-42ca-9ff6-fd63392b5921.png)
 - [](# "clean-conversation-filters") [Hides `Projects` filter in issue/PR lists if it is empty.](https://github.com/user-attachments/assets/b690405f-b138-413d-9779-9467c160e802)
 - [](# "toggle-everything-with-alt") [Adds a shortcut to toggle all similar items (minimized comments, deferred diffs, etc) at once: <kbd>alt</kbd> <kbd>click</kbd> on each button or checkbox.](https://github-production-user-asset-6210df.s3.amazonaws.com/83146190/253063446-6f556e7d-2ac5-439d-92f0-0c6d719fc86f.gif)
